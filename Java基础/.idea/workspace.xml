@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf9b9a44-a70b-4e06-90ac-4f1cc6b91660" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Java基础" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson09/Demo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>边界</find>
+      <find>向上</find>
+      <find>finalize</find>
+      <find>\\</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\Java复习项目\Java复习代码\Java基础\十一、集合\src</dir>
+      <dir>E:\Java复习项目\Java复习代码\Java基础\十、常见类型</dir>
+      <dir>E:\Java复习项目\Java复习代码\Java基础\十一、集合\src\Generic</dir>
+      <dir>E:\Java复习项目\Java复习代码\Java基础</dir>
+      <dir>E:\Java复习项目\Java复习代码\Java基础\十三、File和IO\src\IO\lesson06</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/十二、异常处理/src/lesson01/Demo01.java" />
+        <option value="$PROJECT_DIR$/十二、异常处理/src/lesson02/Demo01.java" />
+        <option value="$PROJECT_DIR$/十二、异常处理/src/lesson03/Demo01.java" />
+        <option value="$PROJECT_DIR$/十二、异常处理/src/lesson04/Demo01.java" />
+        <option value="$PROJECT_DIR$/十二、异常处理/src/lesson05/Demo01.java" />
+        <option value="$PROJECT_DIR$/十二、异常处理/src/lesson06/Demo01.java" />
+        <option value="$PROJECT_DIR$/十二、异常处理/src/lesson07/Demo01.java" />
+        <option value="$PROJECT_DIR$/十二、异常处理/src/lesson08/Demo01.java" />
+        <option value="$PROJECT_DIR$/十二、异常处理/src/lesson09/Demo01.java" />
+        <option value="$PROJECT_DIR$/十二、异常处理/src/lesson10/Demo01.java" />
+        <option value="$PROJECT_DIR$/十二、异常处理/src/lesson11/Demo01.java" />
+        <option value="$PROJECT_DIR$/十二、异常处理/src/lesson11/Demo02.java" />
+        <option value="$PROJECT_DIR$/十二、异常处理/src/lesson12/Demo01.java" />
+        <option value="$PROJECT_DIR$/十二、异常处理/src/lesson13/Demo01.java" />
+        <option value="$PROJECT_DIR$/十二、异常处理/src/lesson14/AgeException.java" />
+        <option value="$PROJECT_DIR$/十二、异常处理/src/lesson14/Demo01.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/lesson01/Demo01.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/lesson02/Demo01.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/lesson02/Demo02.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/lesson02/Demo03.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/lesson02/Demo04.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/lesson02/Demo05.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/lesson02/Demo06.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/lesson03/Demo01.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/lesson03/Demo07.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/lesson02/Demo07.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/File/lesson02/Demo07.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson01/Demo01.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson01/Demo02.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson02/Demo01.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson02/Demo02.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson02/Demo03.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson02/Demo04.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson03/Demo01.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson03/a.txt" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson03/Demo02.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson04/a.txt" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson04/Demo01.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson04/Demo02.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson05/Demo01.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson05/Demo02.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson06/Demo01.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson06/Demo02.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson06/Demo03.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson06/new.txt" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson07/new.txt" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson07/Demo01.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson07/Demo02.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson08/a.txt" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson08/Demo01.java" />
+        <option value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson09/Demo01.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/software/apache-maven-3.5.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java基础" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java基础" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java基础" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java基础" type="462c0819:PsiDirectoryNode" />
+              <item name="十三、File和IO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java基础" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java基础" type="462c0819:PsiDirectoryNode" />
+              <item name="十三、File和IO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java基础" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java基础" type="462c0819:PsiDirectoryNode" />
+              <item name="十三、File和IO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java基础" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java基础" type="462c0819:PsiDirectoryNode" />
+              <item name="十三、File和IO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IO" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson09" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson07" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1543265" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java复习项目\Java复习代码\Java基础\七、封装、继承、多态\src\多态\polymorphic" />
+      <recent name="E:\Java复习项目\Java复习代码\Java基础\七、封装、继承、多态\src\多态\Abstract" />
+      <recent name="E:\Java复习项目\Java复习代码\Java基础\七、封装、继承、多态\src\多态\Interface" />
+      <recent name="E:\Java复习项目\Java复习代码\Java基础\九、封装、继承、多态\src\StringBuffer" />
+      <recent name="E:\Java复习项目\Java复习代码\Java基础\九、封装、继承、多态\src\String" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java复习项目\Java复习代码\Java基础\十三、File和IO\src\IO\lesson07" />
+      <recent name="E:\Java复习项目\Java复习代码\Java基础\十三、File和IO\src\IO\lesson05" />
+      <recent name="E:\Java复习项目\Java复习代码\Java基础\十一、集合\src\Generic\lesson10" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Map.lesson08" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lesson14" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Demo01 (2)">
+    <configuration name="Demo01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.lesson08.Demo01" />
+      <module name="十三、File和IO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO.lesson08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.lesson07.Demo01" />
+      <module name="十三、File和IO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO.lesson07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.lesson07.Demo02" />
+      <module name="十三、File和IO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO.lesson07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.lesson06.Demo02" />
+      <module name="十三、File和IO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO.lesson06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.lesson06.Demo03" />
+      <module name="十三、File和IO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO.lesson06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo01 (2)" />
+        <item itemvalue="Application.Demo02 (1)" />
+        <item itemvalue="Application.Demo01" />
+        <item itemvalue="Application.Demo03" />
+        <item itemvalue="Application.Demo02 (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf9b9a44-a70b-4e06-90ac-4f1cc6b91660" name="Default Changelist" comment="" />
+      <created>1566153752385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566153752385</updated>
+      <workItem from="1566153753652" duration="31000" />
+      <workItem from="1566154557495" duration="36000" />
+      <workItem from="1566155594629" duration="1186000" />
+      <workItem from="1566156994715" duration="986000" />
+      <workItem from="1566158016506" duration="33819000" />
+      <workItem from="1567003006449" duration="38670000" />
+      <workItem from="1568355147056" duration="11264000" />
+      <workItem from="1568546772503" duration="1347000" />
+      <workItem from="1568810525104" duration="21577000" />
+      <workItem from="1570366892577" duration="613000" />
+      <workItem from="1570381327386" duration="11234000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="120763000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7751004" visible="true" weight="0.20911528" />
+      <window_info id="Structure" order="1" sideWeight="0.2248996" side_tool="true" visible="true" weight="0.20911528" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.502008" side_tool="true" weight="0.20375335" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Problems" order="9" weight="0.32956153" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/File/lesson02/Demo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="90" selection-start-line="15" selection-start-column="90" selection-end-line="15" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/File/lesson02/Demo04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="16" column="88" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="16" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/File/lesson02/Demo05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/File/lesson02/Demo06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/File/lesson02/Demo07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+            <element signature="e#910#911#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/File/lesson01/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson01/Demo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.io.FileOutputStream">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.io.FileOutputStream</OriginalElement>
+          <nodes>
+            <node x="80.50000000000001" y="162.0">java.io.OutputStream</node>
+            <node x="19.000000000000014" y="81.0">java.io.Closeable</node>
+            <node x="61.500000000000014" y="243.0">java.io.FileOutputStream</node>
+            <node x="0.0" y="0.0">java.lang.AutoCloseable</node>
+            <node x="171.0" y="81.0">java.io.Flushable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.io.FileOutputStream" target="java.io.OutputStream">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.io.OutputStream" target="java.io.Closeable">
+              <point x="-40.25" y="-15.5" />
+              <point x="120.75000000000001" y="137.0" />
+              <point x="85.00000000000001" y="137.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.io.Closeable" target="java.lang.AutoCloseable">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.io.OutputStream" target="java.io.Flushable">
+              <point x="40.25" y="-15.5" />
+              <point x="201.25" y="137.0" />
+              <point x="237.0" y="137.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-202.0" y="154.0" />
+          <SelectedNodes>
+            <node>java.io.OutputStream</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/OutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="50" column="60" lean-forward="true" selection-start-line="50" selection-start-column="60" selection-end-line="50" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson01/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson02/Demo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson02/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson02/Demo04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson02/Demo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="85" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/BufferedInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/BufferedOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="133" column="70" lean-forward="true" selection-start-line="132" selection-start-column="7" selection-end-line="133" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson03/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson03/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="17" column="106" selection-start-line="17" selection-start-column="106" selection-end-line="17" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson04/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson05/a.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/AutoCloseable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/Closeable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="44" column="48" lean-forward="true" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson06.java" />
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson06/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson06新建文本文档.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson05/Demo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson05/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson04/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="14" column="111" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="111" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson03/Demo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson04/Demo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson06/new.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson06/Demo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="27" column="108" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="108" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson06/Demo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="115" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="115" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson07/new.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/七、封装、继承、多态/src/多态/Abstract/lesson01/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/七、封装、继承、多态/src/多态/Abstract/lesson02/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/七、封装、继承、多态/src/多态/Abstract/lesson03/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/七、封装、继承、多态/src/多态/Interface/lesson01/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/七、封装、继承、多态/src/多态/polymorphic/lesson02/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/七、封装、继承、多态/src/多态/polymorphic/lesson01/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson07/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" column="113" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="113" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson06/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56">
+          <caret line="13" column="105" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="105" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson07/a.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson08/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson07/Demo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson08/b.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson08/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson09/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>十三、File和IO</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

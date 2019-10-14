@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="8">
+      <module name="Java基础" target="" />
+      <module name="七、封装、继承、多态" target="" />
+      <module name="九、常见对象" target="" />
+      <module name="八、内部类" target="" />
+      <module name="十、常见类型" target="" />
+      <module name="十一、集合" target="" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
