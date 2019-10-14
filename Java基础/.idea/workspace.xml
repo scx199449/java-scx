@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf9b9a44-a70b-4e06-90ac-4f1cc6b91660" name="Default Changelist" comment="" />
+    <list default="true" id="bf9b9a44-a70b-4e06-90ac-4f1cc6b91660" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson09/Demo01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="168">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -75,6 +77,9 @@
       <dir>E:\Java复习项目\Java复习代码\Java基础</dir>
       <dir>E:\Java复习项目\Java复习代码\Java基础\十三、File和IO\src\IO\lesson06</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -151,6 +156,7 @@
     <option name="width" value="1940" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -165,32 +171,6 @@
               <item name="Java基础" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java基础" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Java基础" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java基础" type="462c0819:PsiDirectoryNode" />
-              <item name="十三、File和IO" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java基础" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java基础" type="462c0819:PsiDirectoryNode" />
-              <item name="十三、File和IO" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java基础" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java基础" type="462c0819:PsiDirectoryNode" />
-              <item name="十三、File和IO" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="IO" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java基础" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java基础" type="462c0819:PsiDirectoryNode" />
-              <item name="十三、File和IO" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="IO" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson09" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -198,12 +178,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/十三、File和IO/src/IO/lesson07" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -339,12 +320,12 @@
       <workItem from="1568546772503" duration="1347000" />
       <workItem from="1568810525104" duration="21577000" />
       <workItem from="1570366892577" duration="613000" />
-      <workItem from="1570381327386" duration="11234000" />
+      <workItem from="1570381327386" duration="12501000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120763000" />
+    <option name="totallyTimeSpent" value="122030000" />
   </component>
   <component name="TodoView">
     <todo-panel id="all">
@@ -354,17 +335,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7751004" visible="true" weight="0.20911528" />
-      <window_info id="Structure" order="1" sideWeight="0.2248996" side_tool="true" visible="true" weight="0.20911528" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7746479" visible="true" weight="0.20911528" />
+      <window_info id="Structure" order="1" sideWeight="0.22535211" side_tool="true" visible="true" weight="0.20911528" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.502008" side_tool="true" weight="0.20375335" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2956153" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.296034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -818,8 +798,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/十三、File和IO/src/IO/lesson09/Demo01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="168">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
         </state>
       </provider>
     </entry>
